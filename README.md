@@ -1,9 +1,12 @@
 ### React Hook + Antd + Typescript 大文件上传组件
 
 ```shell
+前端启动（react-upload）
 1. npm install  下载相关依赖
 2. npm run start 启动组件
-3. 后端接口：https://github.com/wy-linux/react-upload-server
+后端启动(react-upload-server)
+1. npm install  下载相关依赖
+2. npm run dev  启动接口
 ```
 
 ###### 使用 Web Worker + SparkMD5 根据文件内容生成 hash 值
